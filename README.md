@@ -5,7 +5,7 @@
 This project is a part of my personal projects.
 
 # Aim
-In this project, we will focus on developing ML/DL model to identify fraudulent transactions from the given dataset.
+To develop a powerful predictive model to identify fraudulent transactions with utmost efficiency.
 
 # Summary
 * The dataset was collected from Kaggle [[Link](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)].
