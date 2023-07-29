@@ -2,8 +2,6 @@
 
 # Credit-Fraud-Detection-DL-model
 
-This project is a part of my personal projects.
-
 # Aim
 To develop a powerful predictive model to identify fraudulent transactions with utmost efficiency.
 
